@@ -19,6 +19,12 @@ Thumbs.db
 *.key
 *.crt
 
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+
 # ==========================================
 # Node.js, Express & TypeScript
 # ==========================================
